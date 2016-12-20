@@ -1,5 +1,5 @@
 name = 'Abundance Network'
-description = ''
+description = 'Theme for the Abundance Network website'
 core = '7.x'
 engine = 'phptemplate'
 screenshot = 'screenshot.png'
